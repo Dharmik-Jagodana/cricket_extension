@@ -6,4 +6,4 @@ step 3: click load unpacked and upload folder
 step 4: run your created extension
 
 
-Screenshot from 2024-07-17 15-55-56.png
+Screenshot from 2024-07-17 15-59-50.png
