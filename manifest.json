@@ -1,0 +1,15 @@
+{
+    "name": "Dharmik",
+    "version": "1.0.0",
+    "description": "Best extension in the world",
+    "manifest_version": 3,
+    "author": "Deevankshu Garg",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Chrome Extension",
+        "default_icon": "2160173.png"
+    },
+    "icons": {
+        "128": "2160064.png"
+    }
+}
